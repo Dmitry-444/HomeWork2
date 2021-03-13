@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HomeWork2</string>
+    <string name="Title">Лол</string>
+    <string name="SignUp">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="Password">Пароль</string>
+    <string name="confirmPassword">Подтверждение пароля</string>
+    <string name="simpleEmail">simpleEmail@pochta.kek</string>
+    <string name="titleSignIn">Кек</string>
+    <string name="signUpNew">Нет аккаунта? Зарегайся!</string>
+    <string name="enter">Войти</string>
+    <string name="alreadyRegistered">Уже есть аккаунт? Войти</string>
+    <string name="todo">TODO</string>
+</resources>

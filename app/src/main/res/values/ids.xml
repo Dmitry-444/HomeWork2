@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTextPersonName" type="id" />
+    <item name="editTextTextPersonName2" type="id" />
+    <item name="editTextTextPassword2" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="imageView6" type="id" />
+    <item name="imageView7" type="id" />
+    <item name="imageView8" type="id" />
+</resources>
