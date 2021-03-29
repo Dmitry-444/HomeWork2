@@ -9,9 +9,9 @@ class MainActivity : AppCompatActivity(){
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val firstFragment = FirstFragment()
+        val secondFragment = SecondFragment()
         val transaction = supportFragmentManager.beginTransaction()
-        transaction.replace(R.id.fragment_container, firstFragment)
+        transaction.replace(R.id.fragment_container, secondFragment)
         transaction.commit()
 
     }
