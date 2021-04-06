@@ -19,4 +19,8 @@
     <string name="mainMenuTitleFromSignUp">Успешная регистрация</string>
     <string name="some_message">Some message</string>
     <string name="user_data">User Data</string>
+    <string name="typeHere">Напиши сюда…</string>
+    <string name="userData">Имя фамилия</string>
+    <string name="justText">Просто надпись</string>
+    <string name="exampleText">Some text</string>
 </resources>
